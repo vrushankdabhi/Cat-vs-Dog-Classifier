@@ -104,7 +104,7 @@ python plot_history.py
 After training, the model achieves the following performance on the validation set:
 
 - **Accuracy:** 80.77%
-The training and validation accuracy and loss over epochs are visualized and saved in the `results` directory.
+- 
 
 ## Contributing
 
