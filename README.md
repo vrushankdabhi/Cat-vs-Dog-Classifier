@@ -104,7 +104,7 @@ python plot_history.py
 After training, the model achieves the following performance on the validation set:
 
 - **Accuracy:** 80.77%
-- 
+  
 
 ## Contributing
 
