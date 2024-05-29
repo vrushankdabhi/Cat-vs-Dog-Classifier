@@ -11,7 +11,6 @@ This repository contains the implementation of a Convolutional Neural Network (C
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
